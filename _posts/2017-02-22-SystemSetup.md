@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 시스템 최초설정
+title: OS 설치 후 작업들
 ---
 
 ## GPU Monitor 
