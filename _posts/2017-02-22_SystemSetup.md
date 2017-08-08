@@ -1,3 +1,7 @@
+---
+layout: post
+title: 시스템 최초설정
+---
 
 ## GPU Monitor 
 
